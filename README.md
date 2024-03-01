@@ -12,3 +12,4 @@
 ### EliteTrade Sync
 ### SyncTrax Commerce
 ### Restockify: Highlights the proactive approach of keeping inventory well-stocked.
+### StockGenie: 
