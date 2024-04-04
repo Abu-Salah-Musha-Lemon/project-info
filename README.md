@@ -23,3 +23,9 @@
 ##### https://cajotas.centralasianstudies.org/index.php/CAJOTAS/article/view/607
 
 ##### https://www.scribd.com/document/322616561/POS-and-INVENTORY-SYSTEM
+
+### Cumulus Retail
+#### Cumulus Retail is a cloud-based retail management solution that combines point of sale, e-commerce, back office, and digital marketing for small to mid-size retailers. It is a product of Celerant Technology and is designed to help independently-owned retailers be more competitive in a crowded marketplace. 
+
+### real-time system 
+#### A real-time system is a computer system that can respond to events within a specific time frame. Real-time systems are designed to perform tasks within precise cycle deadlines, down to microseconds. They can also coordinate independent clocks and operate together in unison.
