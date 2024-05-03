@@ -33,3 +33,5 @@
 
 ### shopping Card::  https://packagist.org/packages/gloudemans/shoppingcart
 ### php to desktop ::https://github.com/cztomczak/phpdesktop/releases/tag/chrome-v57.0-rc
+### MySQL Connectors :: https://www.mysql.com/products/connector/?PHPSESSID=17d1801c98afa5268fd9e336f865adde
+### Microsoft SQL Server Migration Assistant for Access :: https://www.microsoft.com/en-us/download/details.aspx?id=54255
