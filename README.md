@@ -13,7 +13,10 @@
 ### SyncTrax Commerce
 ### Restockify: Highlights the proactive approach of keeping inventory well-stocked.
 ### StockGenie: 
-
+### plug-in
+#### 1.wave effect https://materializecss.com/about.html
+##### cdn-js: https://cdnjs.cloudflare.com/ajax/libs/node-waves/0.7.6/waves.min.js
+##### cdn-css: https://cdnjs.cloudflare.com/ajax/libs/node-waves/0.7.6/waves.min.css
 
 #### reference 
 ##### https://www.researchgate.net/publication/360877453_Inventory_Management_System_in_Mobile-Based_Point_of_Sale
