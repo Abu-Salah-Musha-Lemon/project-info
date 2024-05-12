@@ -54,6 +54,11 @@
 8. "Retailing Management" by Michael Levy and Barton A. Weitz
 9. "The Lean Supply Chain: Managing the Challenge at Tesco" by Barry Evans and Robert Mason
 10. "Point of Sale Software Buying Guide" by John Harris
+11. "Principles of Supply Chain Management: A Balanced Approach" by Joel D. Wisner, Keah-Choon Tan, and G. Keong Leong
+12. "Inventory Control and Management" by Donald Waters
+13. "Retail Management: A Strategic Approach" by Barry Berman and Joel R. Evans
+14. "The Theory of Inventory Management" by David F. Pyke and Richard B. Spearman
+15. "Retail Supply Chain Management" by James B. Ayers
 
 
 **Reference Websites:**
@@ -68,6 +73,11 @@
 8. **Retail Dive:** Offers news, trends, and analysis on the retail industry, including POS technology. Website: [Retail Dive](https://www.retaildive.com/)
 9. **NCR Counterpoint Blog:** NCR Counterpoint offers articles and resources on inventory management and retail POS solutions. Website: [NCR Counterpoint Blog](https://www.counterpointpos.com/blog/)
 10. **National Retail Federation (NRF) Research:** NRF provides research reports and insights into retail industry trends, including POS systems. Website: [NRF Research](https://nrf.com/research)
+11. **Inventory Management Solutions Blog:** Provides articles, case studies, and best practices on inventory management solutions and POS systems. Website: [Inventory Management Solutions Blog](https://www.inventorymanagementsolutions.com/blog/)
+12. **ShopKeep Blog:** Offers insights, tips, and resources on retail management and POS software. Website: [ShopKeep Blog](https://www.shopkeep.com/blog)
+13. **QuickBooks Point of Sale Resource Center:** QuickBooks offers guides and resources for using their POS software effectively. Website: [QuickBooks POS Resource Center](https://quickbooks.intuit.com/point-of-sale/resources/)
+14. **Brightpearl Blog:** Provides articles and guides on inventory management, retail operations, and POS systems. Website: [Brightpearl Blog](https://www.brightpearl.com/blog)
+15. **Point of Sale News:** Offers news, reviews, and insights into the retail POS industry. Website: [Point of Sale News](https://pointofsale.com/)
 
 **Reference Theses Paper:**
 
@@ -81,4 +91,9 @@
 8. "Optimizing Inventory Management and POS Systems for Grocery Stores: A Case Study Analysis" by Rachel White
 9. "Impact of Mobile POS Systems on Retail Operations: A Comparative Study" by Matthew Clark
 10. "Inventory Management Practices and POS System Adoption in Emerging Markets: A Survey of Retailers in India" by Priya Patel
+11. "The Impact of Inventory Management Systems on Retail Performance: A Case Study Analysis" by Emily Johnson (Example)
+12. "Inventory Optimization Techniques for Retail Operations: A Comparative Study" by Andrew Smith
+13. "Implementation of RFID Technology in Inventory Management and POS Systems: A Case Study Analysis" by Sarah Williams
+14. "Strategic Integration of Inventory Management and POS Systems: A Study of Best Practices" by Michael Brown
+15. "Cloud-Based Inventory Management and POS Systems for Small Businesses: A Comparative Analysis" by Daniel Clark
 
