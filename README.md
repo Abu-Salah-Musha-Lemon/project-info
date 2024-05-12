@@ -45,55 +45,148 @@
 **Reference Books:**
 
 1. "Inventory Management Explained: A Focus on Forecasting, Lot Sizing, Safety Stock, and Ordering Systems" by David J. Piasecki
+
 2. "Operations and Supply Chain Management" by F. Robert Jacobs and Richard B. Chase
+
 3. "Modern Inventory Management: Principles & Techniques" by Elango Thangavel and Ramasamy Gopalan
+
 4. "Retail Management: A Strategic Approach" by Barry R. Berman and Joel R. Evans
+
 5. "The POS Book: A Guide to Effective Point of Sale Marketing" by Robert Lewis
+
 6. "Inventory Management and Production Planning and Scheduling" by Edward A. Silver, David F. Pyke, and Rein Peterson
+
 7. "Warehouse Management: A Complete Guide to Improving Efficiency and Minimizing Costs in the Modern Warehouse" by Gwynne Richards
+
 8. "Retailing Management" by Michael Levy and Barton A. Weitz
+
 9. "The Lean Supply Chain: Managing the Challenge at Tesco" by Barry Evans and Robert Mason
+
 10. "Point of Sale Software Buying Guide" by John Harris
+
 11. "Principles of Supply Chain Management: A Balanced Approach" by Joel D. Wisner, Keah-Choon Tan, and G. Keong Leong
+
 12. "Inventory Control and Management" by Donald Waters
+
 13. "Retail Management: A Strategic Approach" by Barry Berman and Joel R. Evans
+
 14. "The Theory of Inventory Management" by David F. Pyke and Richard B. Spearman
+
 15. "Retail Supply Chain Management" by James B. Ayers
 
 
 **Reference Websites:**
 
 1. **Inventory Management Society (IMS):** Provides resources, articles, and forums on inventory management best practices. Website: [Inventory Management Society](https://www.inventorymanagementsociety.org/)
+
 2. **TradeGecko Blog:** Offers insights, tips, and guides on inventory management and POS systems. Website: [TradeGecko Blog](https://www.tradegecko.com/blog)
+
 3. **Shopify POS Guides:** Shopify offers a series of guides and resources specifically tailored to POS systems. Website: [Shopify POS Guides](https://www.shopify.com/pos/guides)
+
 4. **Inflow Inventory Blog:** Provides articles, case studies, and tutorials on inventory management strategies and software. Website: [Inflow Inventory Blog](https://www.inflowinventory.com/blog/)
+
 5. **Square Point of Sale Support:** Square provides a comprehensive support center with guides and tutorials for using their POS system. Website: [Square Support Center](https://squareup.com/help/us/en/)
+
 6. **Lightspeed Retail Blog:** Offers insights, articles, and resources on retail management and POS systems. Website: [Lightspeed Retail Blog](https://www.lightspeedhq.com/blog/)
+
 7. **Vend Retail Blog:** Provides retail management tips, POS software guides, and industry trends. Website: [Vend Retail Blog](https://www.vendhq.com/blog/)
+
 8. **Retail Dive:** Offers news, trends, and analysis on the retail industry, including POS technology. Website: [Retail Dive](https://www.retaildive.com/)
+
 9. **NCR Counterpoint Blog:** NCR Counterpoint offers articles and resources on inventory management and retail POS solutions. Website: [NCR Counterpoint Blog](https://www.counterpointpos.com/blog/)
+
 10. **National Retail Federation (NRF) Research:** NRF provides research reports and insights into retail industry trends, including POS systems. Website: [NRF Research](https://nrf.com/research)
+
 11. **Inventory Management Solutions Blog:** Provides articles, case studies, and best practices on inventory management solutions and POS systems. Website: [Inventory Management Solutions Blog](https://www.inventorymanagementsolutions.com/blog/)
+
 12. **ShopKeep Blog:** Offers insights, tips, and resources on retail management and POS software. Website: [ShopKeep Blog](https://www.shopkeep.com/blog)
+
 13. **QuickBooks Point of Sale Resource Center:** QuickBooks offers guides and resources for using their POS software effectively. Website: [QuickBooks POS Resource Center](https://quickbooks.intuit.com/point-of-sale/resources/)
+
 14. **Brightpearl Blog:** Provides articles and guides on inventory management, retail operations, and POS systems. Website: [Brightpearl Blog](https://www.brightpearl.com/blog)
+
 15. **Point of Sale News:** Offers news, reviews, and insights into the retail POS industry. Website: [Point of Sale News](https://pointofsale.com/)
 
 **Reference Theses Paper:**
 
 1. "Design and Implementation of an Inventory Management System: A Case Study of XYZ Company" by John Doe (This is a hypothetical example; you may find similar theses by searching academic databases like Google Scholar or your university library.)
+
 2. "Optimization Techniques for Inventory Management and POS Systems: A Comparative Study" by Jane Smith
+
 3. "Integration of RFID Technology in Inventory Management and POS Systems: Challenges and Opportunities" by Ahmad Khan
+
 4. "Impact of Inventory Management Systems on Retail Performance: A Case Study Analysis" by Emily Johnson
+
 5. "Development and Evaluation of a Cloud-Based Inventory Management and POS Solution for Small Businesses" by Michael Brown
+
 6. "Evaluation of Cloud-Based Inventory Management and POS Systems in Small and Medium Enterprises" by Sarah Thompson
+
 7. "RFID Technology Adoption in Retail: Implications for Inventory Management and POS Systems" by Daniel Lee
+
 8. "Optimizing Inventory Management and POS Systems for Grocery Stores: A Case Study Analysis" by Rachel White
+
 9. "Impact of Mobile POS Systems on Retail Operations: A Comparative Study" by Matthew Clark
+
 10. "Inventory Management Practices and POS System Adoption in Emerging Markets: A Survey of Retailers in India" by Priya Patel
+
 11. "The Impact of Inventory Management Systems on Retail Performance: A Case Study Analysis" by Emily Johnson (Example)
+
 12. "Inventory Optimization Techniques for Retail Operations: A Comparative Study" by Andrew Smith
+
 13. "Implementation of RFID Technology in Inventory Management and POS Systems: A Case Study Analysis" by Sarah Williams
+
 14. "Strategic Integration of Inventory Management and POS Systems: A Study of Best Practices" by Michael Brown
+
 15. "Cloud-Based Inventory Management and POS Systems for Small Businesses: A Comparative Analysis" by Daniel Clark
+
+
+**Reference Front-end:**
+
+1. **Dribbble:** Dribbble is a platform where designers showcase their work. You can search for terms like "point of sale UI" or "inventory management UI" to find various design concepts and ideas. Website: [Dribbble](https://dribbble.com/)
+
+2. **Behance:** Similar to Dribbble, Behance is another platform where designers showcase their portfolios. You can find UI/UX design projects related to inventory management and POS systems for inspiration. Website: [Behance](https://www.behance.net/)
+
+3. **Pinterest:** Pinterest is a visual discovery platform where you can find a wide range of design inspiration. Search for terms like "inventory management UI design" or "POS system UI" to discover pins with design ideas. Website: [Pinterest](https://www.pinterest.com/)
+
+4. **UI Movement:** UI Movement curates the best UI designs from around the web and provides daily inspiration. You can explore their collection for UI design patterns and trends relevant to inventory management and POS systems. Website: [UI Movement](https://uimovement.com/)
+
+5. **Awwwards:** Awwwards showcases the best web design projects, including UI/UX designs. You can explore their collection for innovative and visually appealing frontend designs that can inspire your inventory management system's UI. Website: [Awwwards](https://www.awwwards.com/)
+
+6. **Material Design:** Google's Material Design provides a comprehensive set of design guidelines and resources for creating modern and intuitive user interfaces. You can explore their components and patterns for inspiration. Website: [Material Design](https://material.io/design)
+
+7. **Bootstrap:** Bootstrap is a popular CSS framework that provides pre-designed components and layouts for building responsive websites. You can explore Bootstrap themes and templates for frontend design ideas. Website: [Bootstrap Themes](https://themes.getbootstrap.com/)
+
+8. **Tailwind CSS:** Tailwind CSS is a utility-first CSS framework that offers low-level utility classes for building custom designs. You can explore their documentation and showcase for design inspiration. Website: [Tailwind CSS](https://tailwindcss.com/)
+
+9. **Design Inspiration:** Design Inspiration is a platform that showcases the best design projects, including UI/UX designs. You can browse their collection for frontend design ideas and trends. Website: [Design Inspiration](https://www.designspiration.com/)
+
+10. **UI Design Daily:** UI Design Daily provides daily UI design challenges and showcases designs created by designers around the world. You can explore their challenges and submissions for inspiration. Website: [UI Design Daily](https://www.uidesigndaily.com/)
+
+
+**Reference Back-end:**
+**Laravel Resources:**
+
+1. **Laravel Documentation:** The official documentation provides comprehensive guides and references for getting started with Laravel, including installation, configuration, and usage of its features. Website: [Laravel Documentation](https://laravel.com/docs)
+
+2. **Laracasts:** Laracasts offers video tutorials covering various Laravel topics, from beginner to advanced levels. It's a valuable resource for learning Laravel development techniques and best practices. Website: [Laracasts](https://laracasts.com/)
+
+3. **Laravel News:** Laravel News provides the latest news, tutorials, and resources related to Laravel development. It's a great source for staying updated with Laravel ecosystem updates and trends. Website: [Laravel News](https://laravel-news.com/)
+
+**MySQL Resources:**
+
+4. **MySQL Documentation:** The official MySQL documentation offers comprehensive guides and references for MySQL database management, including installation, configuration, SQL syntax, and optimization techniques. Website: [MySQL Documentation](https://dev.mysql.com/doc/)
+
+5. **SQLZoo:** SQLZoo provides interactive SQL tutorials and exercises for learning SQL queries and database management concepts using MySQL and other database systems. Website: [SQLZoo](https://sqlzoo.net/)
+
+6. **MySQL Workbench:** MySQL Workbench is a visual database design and modeling tool that allows you to design, develop, and administer MySQL databases efficiently. Website: [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+**Laravel Packages:**
+
+1. **Laravel Breeze:** Laravel Breeze is a minimalistic authentication starter kit for Laravel applications. It provides a simple and lightweight authentication system out of the box. GitHub Repository: [laravel/breeze](https://github.com/laravel/breeze)
+
+2. **laravel-shoppingcart:** A simple shopping cart implementation for Laravel. It's lightweight and easy to integrate. GitHub Repository: [hardevine/laravel-shoppingcart](https://github.com/hardevine/laravel-shoppingcart)
+
+3. **Cartalyst Cart:** A feature-rich shopping cart package for Laravel with support for multiple carts, discounts, taxes, and more. Website: [Cartalyst Cart](https://cartalyst.com/manual/cart)
+
+4. **laravel-cart:** Another lightweight shopping cart package for Laravel. It's easy to use and customizable. GitHub Repository: [WebDevEtc/laravel-cart](https://github.com/WebDevEtc/laravel-cart)
 
