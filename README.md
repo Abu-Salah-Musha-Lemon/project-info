@@ -209,6 +209,9 @@ Step-by-Step Guide
 
 bash php artisan make:model Product -mrcf --factory --seed
 
+shortHand php artisan make:model Product -mrcfs
+
+
 This will generate:
 
 A Product model in app/Models/Product.php.<br>
