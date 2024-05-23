@@ -193,21 +193,27 @@
 
 
 #### CMD::
-you can create all these files in a single command using the make:model Artisan command with various options. Here's the command:
+You can create a model, migration, resource controller, factory, and seeder all in one go using the Artisan command with the following options:
 
-bash:: php artisan make:model Product -mcf --factory --seed
-Here's a breakdown of what each option does:
+bash php artisan make:model Product -mrcf --factory --seed
 
--m or --migration: Create a new migration file for the model.
--c or --controller: Create a new controller for the model.
--f or --factory: Create a new factory for the model.
---seed: Create a new seeder for the model.
-Running this command will generate the following files:
+Here's what each option does:
+
+-m or --migration: Create a migration file for the model.
+-r or --resource: Create a resource controller for the model.
+-c or --controller: Create a controller for the model.
+-f or --factory: Create a factory for the model.
+--seed: Create a seeder for the model.
+Step-by-Step Guide
+1. Run the Command
+
+bash php artisan make:model Product -mrcf --factory --seed
+
+This will generate:
 
 A Product model in app/Models/Product.php.
-A migration file for the products table in the database/migrations directory.
-A ProductController in app/Http/Controllers/ProductController.php.
-A factory file for the Product model in database/factories/ProductFactory.php.
-A seeder file for the Product model in database/seeders/ProductSeeder.php.
-You can then adjust these files as necessary to fit your specific requirements.
+A migration file in database/migrations for creating the products table.
+A resource controller ProductController in app/Http/Controllers/ProductController.php.
+A factory ProductFactory in database/factories/ProductFactory.php.
+A seeder ProductSeeder in database/seeders/ProductSeeder.php.
 
