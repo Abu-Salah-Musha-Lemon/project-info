@@ -199,11 +199,11 @@ bash php artisan make:model Product -mrcf --factory --seed
 
 Here's what each option does:
 
--m or --migration: Create a migration file for the model.
--r or --resource: Create a resource controller for the model.
--c or --controller: Create a controller for the model.
--f or --factory: Create a factory for the model.
---seed: Create a seeder for the model.
+-m or --migration: Create a migration file for the model.<br>
+-r or --resource: Create a resource controller for the model.<br>
+-c or --controller: Create a controller for the model.<br>
+-f or --factory: Create a factory for the model.<br>
+--seed: Create a seeder for the model.<br>
 Step-by-Step Guide
 1. Run the Command
 
@@ -211,9 +211,9 @@ bash php artisan make:model Product -mrcf --factory --seed
 
 This will generate:
 
-A Product model in app/Models/Product.php.
-A migration file in database/migrations for creating the products table.
-A resource controller ProductController in app/Http/Controllers/ProductController.php.
-A factory ProductFactory in database/factories/ProductFactory.php.
-A seeder ProductSeeder in database/seeders/ProductSeeder.php.
+A Product model in app/Models/Product.php.<br>
+A migration file in database/migrations for creating the products table.<br>
+A resource controller ProductController in app/Http/Controllers/ProductController.php.<br>
+A factory ProductFactory in database/factories/ProductFactory.php.<br>
+A seeder ProductSeeder in database/seeders/ProductSeeder.php.<br>
 
