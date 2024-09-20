@@ -191,31 +191,31 @@ admin:: https://www.admintem.com/
 4. **laravel-cart:** Another lightweight shopping cart package for Laravel. It's easy to use and customizable. GitHub Repository: [WebDevEtc/laravel-cart](https://github.com/WebDevEtc/laravel-cart)
 
 #### GPT command for organize reference
-**1.Book formate**
-    author:David J. Piasecki
-    Title: Inventory Management Explained: A Focus on Forecasting, Lot Sizing, Safety Stock, and Ordering Systems
-    Year:2009
-    City:united state of america
-    Publisher: Ops Publishing
+**1.Book formate** <br>
+    author:David J. Piasecki <br>
+    Title: Inventory Management Explained: A Focus on Forecasting, Lot Sizing, Safety Stock, and Ordering Systems <br>
+    Year:2009 <br>
+    City:united state of america <br>
+    Publisher: Ops Publishing <br>
 
-**2.Journal Article formate**
-    Author: Sarah Thompson
-    Title:Evaluating the Quality of Point of Sale (POS) Softwareusiness unit 
+**2.Journal Article formate** <br>
+    Author: Sarah Thompson <br>
+    Title:Evaluating the Quality of Point of Sale (POS) Softwareusiness unit  <br>
     Journal Name:University of Sindh Journal of Information and Communication Technology
-    (USJICT)
-    Year: april 2019
-    Page: 69-75
-    Volume:3
-    ISSUE:2
+    (USJICT) <br>
+    Year: april 2019 <br>
+    Page: 69-75 <br>
+    Volume:3 <br>
+    ISSUE:2 <br>
     
-**3.website formate**
-    Author: Laravel
-    Name of web page: laravel.com
-    Production Company: Laravel
-    Year:2024
-    Month: January
-    day:01
-    URL: http::/laravel.com
+**3.website formate** <br>
+    Author: Laravel <br>
+    Name of web page: laravel.com <br>
+    Production Company: Laravel <br>
+    Year:2024 <br>
+    Month: January <br>
+    day:01 <br>
+    URL: http::/laravel.com <br>
 
 
 #### CMD::
