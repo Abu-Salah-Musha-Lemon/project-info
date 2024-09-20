@@ -192,7 +192,7 @@ admin:: https://www.admintem.com/
 
 
 
-##GPT command for organize reference
+### GPT command for organize reference
 #### Book formate 
 **Author:** David J. Piasecki  
 **Title:** *Inventory Management Explained: A Focus on Forecasting, Lot Sizing, Safety Stock, and Ordering Systems*  
