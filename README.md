@@ -190,7 +190,10 @@ admin:: https://www.admintem.com/
 
 4. **laravel-cart:** Another lightweight shopping cart package for Laravel. It's easy to use and customizable. GitHub Repository: [WebDevEtc/laravel-cart](https://github.com/WebDevEtc/laravel-cart)
 
-## Book formate 
+
+
+##GPT command for organize reference
+#### Book formate 
 **Author:** David J. Piasecki  
 **Title:** *Inventory Management Explained: A Focus on Forecasting, Lot Sizing, Safety Stock, and Ordering Systems*  
 **Year:** 2009  
@@ -199,7 +202,7 @@ admin:: https://www.admintem.com/
 
 ---
 
-## Journal Article formate
+#### Journal Article formate
 **Author:** Sarah Thompson  
 **Title:** *Evaluating the Quality of Point of Sale (POS) Software*  
 **Journal Name:** University of Sindh Journal of Information and Communication Technology (USJICT)  
@@ -210,7 +213,7 @@ admin:: https://www.admintem.com/
 
 ---
 
-## Website formate
+#### Website formate
 **Author:** Laravel  
 **Name of Web Page:** *laravel.com*  
 **Production Company:** Laravel  
